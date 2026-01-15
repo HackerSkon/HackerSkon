@@ -2,6 +2,7 @@
 
 Full Stack Developer with 3+ years of experience specializing in the .NET ecosystem. I build scalable, maintainable, and production-ready web and enterprise systems using C#, ASP.NET Core, RESTful APIs, and Angular.
 <div style="display: inline_block"><br>
+  <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
