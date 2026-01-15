@@ -2,15 +2,6 @@
 
 Full Stack Developer with 4+ years of experience specializing in the .NET ecosystem. I build scalable, maintainable, and production-ready web and enterprise systems using C#, ASP.NET Core, RESTful APIs, and Angular.
 
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HackerSkon&show_icons=true&theme=dark"/>
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HackerSkon&layout=compact&theme=dark"/>
-</div>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
