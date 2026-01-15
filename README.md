@@ -16,12 +16,7 @@ Full Stack Developer with 4+ years of experience specializing in the .NET ecosys
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
 </div>
-## Core Technologies
-- **Backend:** C#, .NET, ASP.NET Core, Web API, Entity Framework Core
-- **Frontend:** Angular, TypeScript, HTML5, CSS3, Bootstrap
-- **Databases:** SQL Server, MySQL, PostgreSQL
-- **DevOps:** Linux, VPS, Nginx, Git, GitHub
-- **Practices:** Clean Architecture, SOLID, TDD
+
 
 ## Key Projects
 
