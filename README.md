@@ -47,6 +47,6 @@ Academic project developed as a bachelor’s thesis, covering the full software 
 Restaurant table management module with interactive table mapping and real-time status control.
 
 ## Contact
-- Email: +244 941977198
+- Email: rudigarciach@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kudilson-garcia-b65b86350/
 - GitHub: https://github.com/HackerSkon
