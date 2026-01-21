@@ -47,6 +47,23 @@ Academic project developed as a bachelor’s thesis, covering the full software 
 Restaurant table management module with interactive table mapping and real-time status control.
 
 ## Contact
-- Email: rudigarciach@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kudilson-garcia-b65b86350/
-- GitHub: https://github.com/HackerSkon
+<!-- Ícones de Contato -->
+<p align="left">
+  <!-- Email -->
+  <a href="mailto:rudigarciach@gmail.com">
+    <img align="center" alt="Email" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kudilson-garcia-b65b86350/" target="_blank">
+    <img align="center" alt="LinkedIn" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/HackerSkon" target="_blank">
+    <img align="center" alt="GitHub" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+</p>
